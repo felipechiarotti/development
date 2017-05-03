@@ -1,7 +1,7 @@
 struct Token{
     int value;
     int type;
-}
+};
 
 int line = 0;
 char peek = '';
@@ -21,7 +21,6 @@ Token next_token(void){
         peek = next_char();
         continue;
     }
-
 
     if(isdigit(peek)){
         int aux_value = 0;

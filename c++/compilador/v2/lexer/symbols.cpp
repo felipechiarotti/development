@@ -18,3 +18,7 @@ int add_symbol(Symbol symbol){
     symbols.push_back(symbol);
     return symbols.size()-1;
 }
+
+bool reserve_keywords(){
+    L = lua_open();
+}
