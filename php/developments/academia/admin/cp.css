@@ -1,0 +1,19 @@
+body {background-image:url(img/bg.jpg);}
+
+.menu{width:100%;}
+.menu ul {}
+.menu li{width:50%;margin-left:25%;}
+.menu li a {padding:20px; float:left;color:#fff;}
+.menu li a:hover {color:#fbfbfb !important; background:rgba(0,0,0,0.1);}
+
+select{padding:10px; border:none; background-color:#333; color:#999;}
+
+
+.show ul{width:100%;}
+.show ul li {float:left; padding:10px; margin-right:10px; width:30%;  }
+.show ul li ul li{ float:left; height:45px; width:100%;}
+.show ul li h1 {font-size:1em; color:#333; float:left; padding:10px;}
+.show a { color:#999;  padding:10px;}
+
+input {margin-bottom:10px;}
+.clear{clear:both;}

@@ -1,0 +1,21 @@
+* {
+    margin:0;
+    padding:0;
+}
+#slideshow{
+ position:relative; margin:0 auto; padding:0;
+}
+#slideshow ul { }
+
+@media screen and (max-width:1280px){
+#slideshow img {width:1280px;}
+}
+
+@media screen and (max-width:1366px){
+#slideshow img {width:1366px;}
+}
+
+
+@media screen and (max-width:900px){
+#slideshow img {width:900px;}
+}
