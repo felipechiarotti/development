@@ -1,5 +1,4 @@
 from enum import Enum
-
 class Grammar(Enum):
     ERR    = -2,
     EOL    = 256
