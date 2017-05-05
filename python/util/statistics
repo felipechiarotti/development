@@ -1,0 +1,240 @@
+1 (/players/#!/russell_westbrook) R. Westbrook (/players/#!/russell_westbrook) OKC (/teams/#!/thunder) 5 5 11,610,838,835,238,826,5 80,0 1,8 9,8 2,4 0,4 6,03,237,4
+2 (/players/#!/lebron_james) L. James (/players/#!/lebron_james) CLE (/teams/#!/cavaliers) 5 5 9,8 8,0 43,237,454,844,0 63,0 0,8 9,0 2,6 1,8 4,22,433,2
+3 (/players/#!/james_harden) J. Harden (/players/#!/james_harden) HOU (/teams/#!/rockets) 6 6 5,5 8,2 36,529,241,725,9 91,0 0,5 5,0 2,0 0,5 5,23,531,0
+4 (/players/#!/kawhi_leonard) K. Leonard (/players/#!/kawhi_leonard) SAS (/teams/#!/spurs) 7 7 6,7 4,1 36,932,152,547,2 97,1 0,9 5,9 1,7 0,3 2,11,729,7
+5 (/players/#!/john_wall) J. Wall (/players/#!/john_wall) WAS (/teams/#!/wizards) 8 8 3,9 11,439,831,051,238,2 81,4 0,3 3,6 1,8 1,1 4,92,029,6
+6 (/players/#!/stephen_curry) S. Curry (/players/#!/stephen_curry) GSW (/teams/#!/warriors) 5 5 5,6 6,2 33,028,247,340,8 89,2 1,0 4,6 1,8 0,6 3,61,628,2
+7 (/players/#!/paul_george) P. George (/players/#!/paul_george) IND (/teams/#!/pacers) 4 4 8,8 7,3 43,028,538,642,9 86,7 1,3 7,5 1,8 0,5 3,33,328,0
+8 (/players/#!/isaiah_thomas) I. Thomas (/players/#!/isaiah_thomas) BOS (/teams/#!/celtics) 8 8 3,9 5,9 36,523,846,227,9 83,6 0,4 3,5 1,1 0,1 3,32,128,0
+9 (/players/#!/damian_lillard) D. Lillard (/players/#!/damian_lillard) POR (/teams/#!/blazers) 4 4 4,5 3,3 37,821,043,328,1 96,0 1,0 3,5 1,3 0,5 3,32,827,8
+10 (/players/#!/chris_paul) C. Paul (/players/#!/chris_paul) LAC (/teams/#!/clippers) 7 7 5,0 9,9 37,129,049,636,8 87,9 0,6 4,4 1,7 0,1 2,73,425,3
+11 (/players/#!/kyrie_irving) K. Irving (/players/#!/kyrie_irving) CLE (/teams/#!/cavaliers) 5 5 2,2 4,4 34,417,642,225,0 85,2 0,4 1,8 1,2 0,8 2,62,225,0
+12 (/players/#!/giannis_antetokounmpo) G. Antetokounmpo (/players/#!/giannis_antetokounmpo) MIL (/teams/#!/bucks) 6 6 9,5 4,0 40,526,753,640,0 54,3 1,7 7,8 2,2 1,7 3,33,524,8
+13 (/players/#!/mike_conley) M. Conley (/players/#!/mike_conley) MEM (/teams/#!/grizzlies)6 6 3,3 7,0 37,325,348,544,7 83,8 0,2 3,2 1,7 0,5 2,01,824,7
+14 (/players/#!/dennis_schroder) D. Schroder (/players/#!/dennis_schroder) ATL (/teams/#!/hawks) 6 6 2,3 7,7 35,223,045,542,5 83,8 0,7 1,7 1,0 0,0 1,73,224,7
+15 (/players/#!/bradley_beal) B. Beal (/players/#!/bradley_beal) WAS (/teams/#!/wizards) 8 8 3,5 2,6 39,818,144,527,5 75,6 1,0 2,5 2,0 0,8 2,62,924,5
+16 (/players/#!/paul_millsap) P. Millsap (/players/#!/paul_millsap) ATL (/teams/#!/hawks) 6 6 9,3 4,3 36,526,750,517,6 81,1 1,5 7,8 1,7 0,7 3,83,224,3
+17 (/players/#!/demar_derozan) D. DeRozan (/players/#!/demar_derozan) TOR (/teams/#!/raptors) 7 7 5,7 2,9 36,619,643,9 7,7 92,7 0,3 5,4 1,6 0,0 3,02,622,9
+18 (/players/#!/jimmy_butler) J. Butler (/players/#!/jimmy_butler) CHI (/teams/#!/bulls) 6 6 7,3 4,3 39,822,542,626,1 80,9 1,5 5,8 1,7 0,8 2,51,722,7
+19 (/players/#!/cj_mccollum) C. McCollum (/players/#!/cj_mccollum) POR (/teams/#!/blazers) 4 4 6,0 1,0 35,015,040,050,0 93,8 2,0 4,0 1,0 0,5 3,82,522,5
+20 (/players/#!/gordon_hayward) G. Hayward (/players/#!/gordon_hayward) UTA (/teams/#!/jazz) 8 8 6,9 3,0 36,322,044,540,4 95,7 0,6 6,3 0,9 0,4 2,32,322,3
+21 (/players/#!/blake_gri?n) B. Gri?n (/players/#!/blake_gri?n) LAC (/teams/#!/clippers) 3 3 6,0 2,3 33,019,049,066,7100,01,0 5,0 0,7 0,3 2,00,720,3
+22 (/players/#!/kevin_durant) K. Durant (/players/#!/kevin_durant) GSW (/teams/#!/warriors) 3 3 6,3 3,0 29,021,052,350,0 88,9 0,7 5,7 0,7 1,0 2,31,319,7
+23 (/players/#!/marc_gasol) M. Gasol (/players/#!/marc_gasol) MEM (/teams/#!/grizzlies)6 6 6,5 4,2 40,020,847,058,3 93,9 1,2 5,3 0,3 0,7 2,53,719,3
+24 (/players/#!/lou_williams) L. Williams (/players/#!/lou_williams) HOU (/teams/#!/rockets) 6 1 4,0 1,3 27,515,848,042,3 88,9 1,0 3,0 0,8 0,2 1,32,217,8
+25 (/players/#!/klay_thompson) K. Thompson (/players/#!/klay_thompson) GSW (/teams/#!/warriors) 5 5 2,2 1,4 33,610,440,038,9 76,9 0,6 1,6 0,8 0,4 1,81,817,6
+26 (/players/#!/jeff_teague) J. Teague (/players/#!/jeff_teague) IND (/teams/#!/pacers) 4 4 3,3 6,3 35,519,848,952,9 83,3 0,0 3,3 1,0 0,8 2,03,017,0
+27 (/players/#!/avery_bradley) A. Bradley (/players/#!/avery_bradley) BOS (/teams/#!/celtics) 8 8 4,1 2,9 36,315,044,738,2 55,6 1,6 2,5 1,9 0,3 1,82,116,0
+28 (/players/#!/al_horford) A. Horford (/players/#!/al_horford) BOS (/teams/#!/celtics) 8 8 9,0 6,5 35,027,563,147,4 86,7 2,4 6,6 1,0 0,8 1,61,816,0
+29 (/players/#!/kevin_love) K. Love (/players/#!/kevin_love) CLE (/teams/#!/cavaliers) 5 5 9,2 1,8 32,818,840,742,9 85,7 1,4 7,8 0,4 0,8 2,22,416,0
+30 (/players/#!/lance_stephenson) L. Stephenson (/players/#!/lance_stephenson) IND (/teams/#!/pacers) 4 1 5,3 2,8 26,816,850,938,9 75,0 0,3 5,0 0,5 0,0 1,02,816,0
+31 (/players/#!/george_hill) G. Hill (/players/#!/george_hill) UTA (/teams/#!/jazz) 8 8 4,1 3,6 35,114,646,938,7 72,4 1,0 3,1 0,3 0,1 1,63,115,6
+32 (/players/#!/tony_parker) T. Parker (/players/#!/tony_parker) SAS (/teams/#!/spurs) 7 7 2,4 3,0 26,413,951,252,9100,00,1 2,3 0,4 0,0 1,71,315,6
+33 (/players/#!/deandre_jordan) D. Jordan (/players/#!/deandre_jordan) LAC (/teams/#!/clippers) 7 7 14,4 0,7 37,722,070,5 0,0 39,3 3,610,9 0,4 0,9 2,44,115,4
+34 (/players/#!/joe_johnson) J. Johnson (/players/#!/joe_johnson) UTA (/teams/#!/jazz) 8 1 4,3 2,9 30,814,447,636,4 69,2 1,0 3,3 0,8 0,1 1,42,115,1
+35 (/players/#!/kyle_lowry) K. Lowry (/players/#!/kyle_lowry) TOR (/teams/#!/raptors) 7 7 3,4 6,0 38,717,644,430,6 82,1 0,4 3,0 1,7 0,6 2,13,315,1
+36 (/players/#!/dwyane_wade) D. Wade (/players/#!/dwyane_wade) CHI (/teams/#!/bulls) 6 6 5,0 4,0 31,715,337,235,3 95,2 1,0 4,0 0,8 1,3 1,71,315,0
+37 (/players/#!/khris_middleton) K. Middleton (/players/#!/khris_middleton) MIL (/teams/#!/bucks) 6 6 4,7 5,3 38,516,239,736,8 81,8 0,0 4,7 2,0 0,0 1,82,814,5
+38 (/players/#!/draymond_green) D. Green (/players/#!/draymond_green) GSW (/teams/#!/warriors) 5 5 9,2 7,2 35,028,650,052,0 65,4 0,6 8,6 1,8 3,8 1,83,014,4
+39 (/players/#!/jae_crowder) J. Crowder (/players/#!/jae_crowder) BOS (/teams/#!/celtics) 8 8 5,6 2,0 34,915,443,834,1 81,0 1,4 4,3 1,0 0,5 0,82,613,8
+40 (/players/#!/lamarcus_aldridge) L. Aldridge (/players/#!/lamarcus_aldridge) SAS (/teams/#!/spurs) 7 7 7,1 1,3 35,614,143,9 0,0 77,8 2,3 4,9 0,6 0,6 1,32,713,3
+41 (/players/#!/eric_gordon) E. Gordon (/players/#!/eric_gordon) HOU (/teams/#!/rockets) 6 1 4,3 2,0 31,713,343,837,8 75,0 0,5 3,8 0,7 0,7 1,02,513,2
+42 (/players/#!/greg_monroe) G. Monroe (/players/#!/greg_monroe) MIL (/teams/#!/bucks) 6 1 7,3 1,7 23,517,352,9 0,0 83,3 2,8 4,5 1,3 0,5 1,82,713,2
+43 (/players/#!/zach_randolph) Z. Randolph (/players/#!/zach_randolph) MEM (/teams/#!/grizzlies)6 4 8,2 0,7 31,813,542,214,3 72,7 1,5 6,7 0,8 0,3 1,22,313,2
+44 (/players/#!/serge_ibaka) S. Ibaka (/players/#!/serge_ibaka) TOR (/teams/#!/raptors) 7 7 8,0 1,9 30,117,144,037,0 80,0 1,0 7,0 0,4 2,0 1,33,613,1
+45 (/players/#!/tim_hardaway jr.) T. Hardaway Jr. (/players/#!/tim_hardaway jr.) ATL (/teams/#!/hawks) 6 6 2,7 1,2 33,3 5,2 32,926,2 63,2 0,5 2,2 0,5 0,0 1,72,212,8
+46 (/players/#!/robin_lopez) R. Lopez (/players/#!/robin_lopez) CHI (/teams/#!/bulls) 6 6 7,2 0,8 27,017,865,4 0,0 100,04,7 2,5 0,5 1,0 1,32,212,7
+47 (/players/#!/jamal_crawford) J. Crawford (/players/#!/jamal_crawford) LAC (/teams/#!/clippers) 7 1 1,3 1,9 28,0 8,3 42,224,0100,00,3 1,0 0,6 0,1 1,31,712,6
+48 (/players/#!/nene_hilario) N. Hilario (/players/#!/nene_hilario) HOU (/teams/#!/rockets) 6 1 6,3 0,5 21,016,581,1 0,0 60,0 1,3 5,0 0,7 0,5 1,23,312,5
+49 (/players/#!/norman_powell) N. Powell (/players/#!/norman_powell) TOR (/teams/#!/raptors) 6 3 2,5 1,5 23,511,848,966,7 80,0 0,3 2,2 1,2 0,3 1,32,512,3
+50 (/players/#!/al-farouq_aminu) A. Aminu (/players/#!/al-farouq_aminu) POR (/teams/#!/blazers) 4 1 6,5 1,0 28,313,045,941,2 63,6 1,3 5,3 0,8 1,0 2,32,312,0
+51 (/players/#!/isaiah_canaan) I. Canaan (/players/#!/isaiah_canaan) CHI (/teams/#!/bulls) 3 2 1,3 1,3 31,7 8,7 50,0 35,7 66,7 0,0 1,3 1,0 0,0 1,72,011,7
+52 (/players/#!/norman_powell) N. Powell (/players/#!/norman_powell) TOR (/teams/#!/raptors) 7 4 2,9 1,6 23,911,7 49,1 63,2 81,8 0,4 2,4 1,1 0,4 1,62,711,7
+53 (/players/#!/andre_roberson) A. Roberson (/players/#!/andre_roberson) OKC (/teams/#!/thunder) 5 5 6,2 1,8 37,016,0 52,2 41,2 14,3 3,6 2,6 2,4 3,4 1,43,011,6
+54 (/players/#!/rajon_rondo) R. Rondo (/players/#!/rajon_rondo) CHI (/teams/#!/bulls) 2 2 8,5 10,033,524,0 42,3 0,0 50,0 3,5 5,0 3,5 0,5 2,03,011,5
+55 (/players/#!/taurean_prince) T. Prince (/players/#!/taurean_prince) ATL (/teams/#!/hawks) 6 6 5,3 1,3 31,213,3 55,8 28,6 100,0 1,2 4,2 0,3 0,2 1,21,511,2
+56 (/players/#!/patrick_beverley) P. Beverley (/players/#!/patrick_beverley) HOU (/teams/#!/rockets) 7 7 5,7 3,1 27,413,3 40,8 37,5 70,0 1,6 4,1 1,6 0,1 1,93,711,0
+57 (/players/#!/markieff_morris) M. Morris (/players/#!/markieff_morris) WAS (/teams/#!/wizards) 8 8 5,3 1,3 26,311,9 40,2 31,6 75,0 1,0 4,3 0,6 1,8 1,04,011,0
+58 (/players/#!/otto_porter jr.) O. Porter Jr. (/players/#!/otto_porter jr.) WAS (/teams/#!/wizards) 8 8 6,6 1,6 32,016,4 50,8 36,0 85,0 1,1 5,5 1,3 0,6 0,62,611,0
+59 (/players/#!/victor_oladipo) V. Oladipo (/players/#!/victor_oladipo) OKC (/teams/#!/thunder) 5 5 5,6 2,0 36,211,2 34,4 24,0 100,0 0,4 5,2 1,4 0,6 1,23,410,8
+60 (/players/#!/myles_turner) M. Turner (/players/#!/myles_turner) IND (/teams/#!/pacers) 4 4 6,8 0,8 33,312,8 43,2 0,0 62,5 1,5 5,3 1,8 1,3 1,53,810,8
+61 (/players/#!/rodney_hood) R. Hood (/players/#!/rodney_hood) UTA (/teams/#!/jazz) 8 1 2,8 0,8 24,5 7,1 39,2 30,8 68,8 0,1 2,6 0,5 0,0 0,92,510,6
+62 (/players/#!/jonas_valanciunas) J. Valanciunas (/players/#!/jonas_valanciunas) TOR (/teams/#!/raptors) 8 4 6,8 0,3 20,912,1 53,3 0,0 72,4 0,9 5,9 0,1 0,4 1,52,310,6
+63 (/players/#!/clint_capela) C. Capela (/players/#!/clint_capela) HOU (/teams/#!/rockets) 7 7 7,0 1,0 23,016,9 62,5 0,0 60,0 2,1 4,9 0,6 2,4 0,71,910,3
+64 (/players/#!/evan_turner) E. Turner (/players/#!/evan_turner) POR (/teams/#!/blazers) 4 4 5,8 3,8 31,014,0 36,4 33,3 75,0 0,8 5,0 1,8 0,5 1,81,810,3
+65 (/players/#!/tony_snell) T. Snell (/players/#!/tony_snell) MIL (/teams/#!/bucks) 6 6 2,3 1,5 30,810,2 50,0 51,6 0,0 0,3 2,0 0,2 0,2 0,32,810,0
+66 (/players/#!/ryan_anderson) R. Anderson (/players/#!/ryan_anderson) HOU (/teams/#!/rockets) 7 7 5,7 0,9 30,411,4 40,0 28,2 100,0 1,7 4,0 0,4 0,3 0,61,9 9,9
+67 (/players/#!/kent_bazemore) K. Bazemore (/players/#!/kent_bazemore) ATL (/teams/#!/hawks) 6 1 3,8 3,3 25,0 9,8 39,6 29,2 71,4 0,7 3,2 0,7 0,8 2,72,5 9,8
+68 (/players/#!/taj_gibson) T. Gibson (/players/#!/taj_gibson) OKC (/teams/#!/thunder) 5 5 3,6 0,6 23,6 9,6 60,0 0,0 87,5 0,6 3,0 0,2 0,0 1,62,6 9,8
+69 (/players/#!/channing_frye) C. Frye (/players/#!/channing_frye) CLE (/teams/#!/cavaliers) 6 1 2,3 1,2 15,311,2 55,9 52,0 85,7 0,0 2,3 0,3 0,5 0,01,3 9,5
+70 (/players/#!/patty_mills) P. Mills (/players/#!/patty_mills) SAS (/teams/#!/spurs) 8 1 1,8 1,5 20,9 8,0 48,2 48,5 83,3 0,0 1,8 0,3 0,0 1,12,1 9,4
+71 (/players/#!/derrick_favors) D. Favors (/players/#!/derrick_favors) UTA (/teams/#!/jazz) 8 2 6,3 1,3 24,513,5 60,0 0,0 42,1 1,6 4,6 0,9 0,5 0,52,9 9,3
+72 (/players/#!/vince_carter) V. Carter (/players/#!/vince_carter) MEM (/teams/#!/grizzlies) 6 6 3,3 1,5 32,5 9,0 47,6 40,0 100,0 0,7 2,7 0,3 0,0 1,72,5 9,2
+73 (/players/#!/rudy_gobert) R. Gobert (/players/#!/rudy_gobert) UTA (/teams/#!/jazz) 6 6 7,5 1,2 22,815,2 62,5 0,0 53,6 1,7 5,8 1,3 1,3 1,23,0 9,2
+74 (/players/#!/jerami_grant) J. Grant (/players/#!/jerami_grant) OKC (/teams/#!/thunder) 5 1 3,8 0,8 22,211,2 61,3 33,3 85,7 1,4 2,4 0,2 0,4 0,61,4 9,2
+75 (/players/#!/kelly_olynyk) K. Olynyk (/players/#!/kelly_olynyk) BOS (/teams/#!/celtics) 8 1 3,6 2,1 19,311,6 55,8 47,6 55,6 0,9 2,8 0,8 0,8 1,42,8 9,1
+76 (/players/#!/jj_redick) J. Redick (/players/#!/jj_redick) LAC (/teams/#!/clippers) 7 7 1,7 0,9 29,4 5,3 38,0 34,6 85,0 0,0 1,7 0,3 0,0 1,92,4 9,1
+77 (/players/#!/malcolm_brogdon) M. Brogdon (/players/#!/malcolm_brogdon) MIL (/teams/#!/bucks) 6 6 4,3 3,5 30,510,2 40,0 47,6 0,0 0,5 3,8 0,5 0,3 2,02,0 9,0
+78 (/players/#!/nikola_mirotic) N. Mirotic (/players/#!/nikola_mirotic) CHI (/teams/#!/bulls) 6 6 5,0 1,5 27,0 9,8 34,0 28,6 80,0 0,7 4,3 0,7 0,5 0,72,7 8,7
+79 (/players/#!/marcin_gortat) M. Gortat (/players/#!/marcin_gortat) WAS (/teams/#!/wizards) 8 8 10,9 2,1 33,618,8 51,7 0,0 53,8 4,1 6,8 0,4 2,1 1,03,3 8,6
+80 (/players/#!/bojan_bogdanovic) B. Bogdanovic (/players/#!/bojan_bogdanovic) WAS (/teams/#!/wizards) 8 1 4,0 0,4 19,6 9,0 39,6 33,3 85,0 0,8 3,3 0,6 0,1 0,31,4 8,5
+81 (/players/#!/james_ennis iii) J. Ennis III (/players/#!/james_ennis iii) MEM (/teams/#!/grizzlies) 6 4 4,2 1,2 26,5 9,7 42,1 31,6 85,7 1,3 2,8 0,8 0,3 1,23,3 8,3
+82 (/players/#!/javale_mcgee) J. McGee (/players/#!/javale_mcgee) GSW (/teams/#!/warriors) 5 1 3,4 0,2 11,812,4 76,0 0,0 75,0 1,4 2,0 0,4 2,0 0,41,6 8,2
+83 (/players/#!/steven_adams) S. Adams (/players/#!/steven_adams) OKC (/teams/#!/thunder) 5 5 6,8 1,4 31,415,0 64,3 0,0 36,4 3,4 3,4 1,2 1,8 0,82,8 8,0
+84 (/players/#!/trevor_ariza) T. Ariza (/players/#!/trevor_ariza) HOU (/teams/#!/rockets) 7 7 4,6 1,6 36,310,1 37,3 26,7 100,0 0,7 3,9 1,3 0,1 0,92,7 8,0
+85 (/players/#!/ian_clark) I. Clark (/players/#!/ian_clark) GSW (/teams/#!/warriors) 5 1 3,0 0,6 18,6 8,0 46,7 33,3 90,9 0,2 2,8 0,2 0,0 0,41,6 8,0
+86 (/players/#!/malcolm_delaney) M. Delaney (/players/#!/malcolm_delaney) ATL (/teams/#!/hawks) 1 1 1,0 0,0 3,0 8,0 100,0100,0 50,0 0,0 1,0 0,0 0,0 0,00,0 8,0
+87 (/players/#!/dwight_howard) D. Howard (/players/#!/dwight_howard) ATL (/teams/#!/hawks) 6 6 10,7 1,3 26,215,8 50,0 0,0 63,2 3,0 7,7 1,0 0,8 1,83,5 8,0
+88 (/players/#!/austin_rivers) A. Rivers (/players/#!/austin_rivers) LAC (/teams/#!/clippers) 3 2 2,7 0,7 30,0 4,7 34,6 30,8 100,0 0,3 2,3 0,3 0,3 1,72,0 8,0
+89 (/players/#!/marcus_smart) M. Smart (/players/#!/marcus_smart) BOS (/teams/#!/celtics) 8 1 4,9 4,8 31,313,4 38,3 36,4 45,5 1,5 3,4 1,8 1,1 1,62,5 7,9
+90 (/players/#!/tristan_thompson) T. Thompson (/players/#!/tristan_thompson) CLE (/teams/#!/cavaliers) 6 6 11,2 1,2 32,016,7 52,8 0,0 56,3 5,3 5,8 0,5 1,0 1,02,2 7,8
+91 (/players/#!/matthew_dellavedova) M. Dellavedova (/players/#!/matthew_dellavedova) MIL (/teams/#!/bucks) 6 1 2,0 2,0 26,5 6,2 39,0 37,5 80,0 0,2 1,8 0,2 0,0 1,20,8 7,7
+92 (/players/#!/luc_mbah a moute) L. Mbah a Moute (/players/#!/luc_mbah a moute) LAC (/teams/#!/clippers) 7 7 4,9 1,0 32,010,1 39,5 31,3 70,0 1,4 3,4 1,1 0,6 0,42,3 7,6
+93 (/players/#!/gerald_green) G. Green (/players/#!/gerald_green) BOS (/teams/#!/celtics) 6 5 1,8 0,7 16,0 5,7 43,6 39,1 66,7 0,3 1,5 0,0 0,0 0,51,3 7,5
+94 (/players/#!/jamychal_green) J. Green (/players/#!/jamychal_green) MEM (/teams/#!/grizzlies) 6 2 3,3 0,3 19,7 7,2 47,2 43,8 100,0 0,5 2,8 0,0 0,0 0,73,5 7,3
+95 (/players/#!/maurice_harkless) M. Harkless (/players/#!/maurice_harkless) POR (/teams/#!/blazers) 4 4 3,3 0,8 24,8 7,3 29,4 16,7 87,5 1,8 1,5 1,3 1,3 0,33,5 7,3
+96 (/players/#!/cj_miles) C. Miles (/players/#!/cj_miles) IND (/teams/#!/pacers) 4 2 2,0 0,3 20,5 6,5 45,8 31,3 100,0 1,0 1,0 0,5 0,3 0,53,0 7,3
+97 (/players/#!/kevin_seraphin) K. Seraphin (/players/#!/kevin_seraphin) IND (/teams/#!/pacers) 4 1 3,5 1,0 14,8 7,3 46,2 0,0 71,4 2,0 1,5 0,0 0,5 1,02,5 7,3
+98 (/players/#!/paul_zipser) P. Zipser (/players/#!/paul_zipser) CHI (/teams/#!/bulls) 6 1 3,5 0,5 22,7 7,5 45,5 37,5 100,0 0,5 3,0 0,2 0,2 1,22,0 7,3
+99 (/players/#!/trey_lyles) T. Lyles (/players/#!/trey_lyles) UTA (/teams/#!/jazz) 1 1 1,0 1,0 6,0 8,0 75,0 50,0 0,0 0,0 1,0 1,0 0,0 1,01,0 7,0
+100 (/players/#!/zaza_pachulia) Z. Pachulia (/players/#!/zaza_pachulia) GSW (/teams/#!/warriors) 5 5 3,8 0,6 14,4 9,2 53,8 0,0 100,0 0,4 3,4 0,6 0,4 0,81,8 7,0
+101 (/players/#!/deron_williams) D. Williams (/players/#!/deron_williams) CLE (/teams/#!/cavaliers) 6 1 1,3 2,5 16,2 9,3 66,7 66,7 85,7 0,3 1,0 0,3 0,2 0,72,2 7,0
+102 (/players/#!/danny_green) D. Green (/players/#!/danny_green) SAS (/teams/#!/spurs) 8 8 2,9 1,0 24,8 6,8 39,2 29,7 50,0 0,8 2,1 0,5 0,8 0,92,0 6,9
+103 (/players/#!/cory_joseph) C. Joseph (/players/#!/cory_joseph) TOR (/teams/#!/raptors) 8 1 1,5 1,6 17,3 5,5 43,8 47,1 100,0 0,5 1,0 0,3 0,1 1,51,6 6,9
+104 (/players/#!/kelly_oubre jr.) K. Oubre Jr. (/players/#!/kelly_oubre jr.) WAS (/teams/#!/wizards) 8 1 2,9 0,5 19,0 7,8 40,8 41,7 83,3 0,9 2,0 1,3 0,6 0,63,6 6,9
+105 (/players/#!/terry_rozier) T. Rozier (/players/#!/terry_rozier) BOS (/teams/#!/celtics) 7 1 3,4 1,6 18,3 9,9 42,9 45,0 90,0 0,4 3,0 0,6 0,4 0,01,3 6,9
+106 (/players/#!/shabazz_napier) S. Napier (/players/#!/shabazz_napier) POR (/teams/#!/blazers) 4 1 1,0 0,8 11,8 5,8 42,1 45,5 75,0 0,3 0,8 0,5 0,0 0,01,5 6,8
+107 (/players/#!/bobby_portis) B. Portis (/players/#!/bobby_portis) CHI (/teams/#!/bulls) 6 1 6,0 1,2 20,2 11,2 51,5 46,2 0,0 0,8 5,2 0,5 0,5 1,01,7 6,7
+108 (/players/#!/andre_iguodala) A. Iguodala (/players/#!/andre_iguodala) GSW (/teams/#!/warriors) 5 1 5,4 4,6 28,8 12,4 36,4 0,0 81,8 0,4 5,0 0,6 0,2 0,41,6 6,6
+109 (/players/#!/marreese_speights) M. Speights (/players/#!/marreese_speights) LAC (/teams/#!/clippers) 7 2 2,9 0,4 14,0 6,7 43,2 35,0 70,0 0,6 2,3 0,3 0,4 0,41,9 6,6
+110 (/players/#!/andrew_harrison) A. Harrison (/players/#!/andrew_harrison) MEM (/teams/#!/grizzlies) 6 1 1,8 2,2 19,8 7,8 44,8 38,5 88,9 0,7 1,2 0,5 0,2 0,52,3 6,5
+111 (/players/#!/jr_smith) J. Smith (/players/#!/jr_smith) CLE (/teams/#!/cavaliers) 6 6 2,0 0,8 28,2 6,7 46,4 47,8 50,0 0,2 1,8 0,7 0,3 0,81,8 6,5
+112 (/players/#!/pau_gasol) P. Gasol (/players/#!/pau_gasol) SAS (/teams/#!/spurs) 8 1 6,6 1,4 23,9 10,1 37,0 35,7 66,7 2,3 4,4 0,4 0,8 0,81,9 6,4
+113 (/players/#!/joe_ingles) J. Ingles (/players/#!/joe_ingles) UTA (/teams/#!/jazz) 8 8 3,5 4,0 32,3 11,0 37,8 33,3 66,7 0,3 3,3 1,8 0,5 1,32,5 6,4
+114 (/players/#!/jonathon_simmons) J. Simmons (/players/#!/jonathon_simmons) SAS (/teams/#!/spurs) 7 1 0,7 1,0 13,6 4,9 50,0 44,4 63,6 0,1 0,6 0,0 0,1 0,31,3 6,1
+115 (/players/#!/david_west) D. West (/players/#!/david_west) GSW (/teams/#!/warriors) 5 1 3,0 3,6 15,0 12,0 61,9 0,0 100,0 0,4 2,6 0,6 1,0 0,61,4 6,0
+116 (/players/#!/boris_diaw) B. Diaw (/players/#!/boris_diaw) UTA (/teams/#!/jazz) 8 7 1,8 2,4 18,5 7,5 55,2 50,0 90,0 0,4 1,4 0,8 0,4 1,81,0 5,8
+117 (/players/#!/thon_maker) T. Maker (/players/#!/thon_maker) MIL (/teams/#!/bucks) 6 6 3,2 2,0 19,3 8,8 38,7 20,0 81,8 1,3 1,8 0,8 1,8 1,33,0 5,8
+118 (/players/#!/raymond_felton) R. Felton (/players/#!/raymond_felton) LAC (/teams/#!/clippers) 7 1 1,4 1,4 18,1 6,4 46,9 44,4 100,0 0,3 1,1 0,9 0,0 0,41,4 5,6
+119 (/players/#!/allen_crabbe) A. Crabbe (/players/#!/allen_crabbe) POR (/teams/#!/blazers) 4 1 3,0 0,5 23,0 4,8 37,5 23,1 33,3 0,0 3,0 0,3 0,0 0,32,3 5,5
+120 (/players/#!/monta_ellis) M. Ellis (/players/#!/monta_ellis) IND (/teams/#!/pacers) 4 2 2,0 1,3 19,0 5,3 40,0 25,0 80,0 0,3 1,8 0,5 0,3 1,01,3 5,5
+121 (/players/#!/shaun_livingston) S. Livingston (/players/#!/shaun_livingston) GSW (/teams/#!/warriors) 2 1 3,0 1,0 18,0 9,5 83,3 0,0 100,0 1,0 2,0 0,5 0,5 0,52,0 5,5
+122 (/players/#!/iman_shumpert) I. Shumpert (/players/#!/iman_shumpert) CLE (/teams/#!/cavaliers) 5 1 2,6 0,8 19,0 7,2 55,0 44,4 100,0 0,0 2,6 0,4 0,2 0,42,4 5,4
+123 (/players/#!/david_lee) D. Lee (/players/#!/david_lee) SAS (/teams/#!/spurs) 8 4 4,8 0,9 21,3 8,9 53,6 0,0 73,3 1,6 3,1 0,3 0,4 0,42,1 5,1
+124 (/players/#!/aaron_brooks) A. Brooks (/players/#!/aaron_brooks) IND (/teams/#!/pacers) 1 1 1,0 1,0 7,0 5,0 66,7 50,0 0,0 0,0 1,0 0,0 0,0 1,00,0 5,0
+125 (/players/#!/demarre_carroll) D. Carroll (/players/#!/demarre_carroll) TOR (/teams/#!/raptors) 8 7 3,0 0,5 18,0 6,5 41,2 31,8 55,6 0,5 2,5 1,0 0,6 0,61,4 5,0
+126 (/players/#!/bryn_forbes) B. Forbes (/players/#!/bryn_forbes) SAS (/teams/#!/spurs) 1 1 1,0 0,0 9,0 5,0 66,7 50,0 0,0 0,0 1,0 0,0 0,0 0,03,0 5,0
+127 (/players/#!/kyle_korver) K. Korver (/players/#!/kyle_korver) CLE (/teams/#!/cavaliers) 6 1 1,7 1,0 17,7 5,2 38,5 38,1 100,0 0,3 1,3 0,7 0,0 0,50,7 5,0
+128 (/players/#!/doug_mcdermott) D. McDermott (/players/#!/doug_mcdermott) OKC (/teams/#!/thunder) 5 1 1,0 0,2 13,2 4,6 50,0 53,8 0,0 0,0 1,0 0,2 0,2 0,20,4 5,0
+129 (/players/#!/glenn_robinson iii) G. Robinson III (/players/#!/glenn_robinson iii) IND (/teams/#!/pacers) 3 1 1,0 0,3 10,3 6,0 100,0 100,0 50,0 0,0 1,0 0,0 0,0 0,00,7 5,0
+130 (/players/#!/alex_abrines) A. Abrines (/players/#!/alex_abrines) OKC (/teams/#!/thunder) 5 1 1,8 0,8 16,0 4,2 34,8 29,4 75,0 0,4 1,4 0,0 0,0 0,01,6 4,8
+131 (/players/#!/enes_kanter) E. Kanter (/players/#!/enes_kanter) OKC (/teams/#!/thunder) 5 1 1,8 0,2 9,0 4,0 38,5 0,0 100,0 0,6 1,2 0,0 0,8 0,41,6 4,8
+132 (/players/#!/joffrey_lauvergne) J. Lauvergne (/players/#!/joffrey_lauvergne) CHI (/teams/#!/bulls) 3 1 3,0 1,7 8,7 6,3 36,4 0,0 100,0 1,7 1,3 0,0 0,0 0,70,3 4,7
+133 (/players/#!/noah_vonleh) N. Vonleh (/players/#!/noah_vonleh) POR (/teams/#!/blazers) 4 2 7,3 2,0 25,0 10,0 44,4 0,0 40,0 2,3 5,0 0,3 0,8 1,52,8 4,5
+134 (/players/#!/jason_smith) J. Smith (/players/#!/jason_smith) WAS (/teams/#!/wizards) 8 1 2,8 0,4 15,8 4,9 43,8 30,0 66,7 1,0 1,8 0,3 0,6 1,03,0 4,4
+135 (/players/#!/kyle_anderson) K. Anderson (/players/#!/kyle_anderson) SAS (/teams/#!/spurs) 7 1 1,4 0,6 9,6 4,9 70,6 50,0 71,4 0,4 1,0 0,3 0,1 0,90,3 4,3
+136 (/players/#!/michael_beasley) M. Beasley (/players/#!/michael_beasley) MIL (/teams/#!/bucks) 4 1 2,3 0,3 12,0 2,5 35,0 60,0 0,0 0,5 1,8 0,3 0,3 0,52,0 4,3
+137 (/players/#!/jose_calderon) J. Calderon (/players/#!/jose_calderon) ATL (/teams/#!/hawks) 6 1 1,3 2,2 12,5 5,7 47,8 33,3 0,0 0,3 1,0 0,3 0,2 0,71,5 4,3
+138 (/players/#!/patrick_patterson) P. Patterson (/players/#!/patrick_patterson) TOR (/teams/#!/raptors) 8 1 2,3 2,0 19,3 5,8 29,4 33,3 100,0 0,1 2,1 0,8 0,1 0,60,4 4,3
+139 (/players/#!/joel_bolomboy) J. Bolomboy (/players/#!/joel_bolomboy) UTA (/teams/#!/jazz) 1 1 1,0 0,0 5,0 5,0 100,0 0,0 0,0 0,0 1,0 0,0 0,0 0,00,0 4,0
+140 (/players/#!/ersan_ilyasova) E. Ilyasova (/players/#!/ersan_ilyasova) ATL (/teams/#!/hawks) 6 1 5,2 0,3 15,0 6,0 34,8 20,0 77,8 2,3 2,8 0,2 0,0 0,81,2 4,0
+141 (/players/#!/patrick_mccaw) P. McCaw (/players/#!/patrick_mccaw) GSW (/teams/#!/warriors) 5 2 2,6 1,4 17,2 6,4 38,9 28,6 66,7 0,6 2,0 0,6 0,4 0,01,0 4,0
+142 (/players/#!/anthony_morrow) A. Morrow (/players/#!/anthony_morrow) CHI (/teams/#!/bulls) 3 1 1,0 0,7 9,7 4,3 55,6 0,0 100,0 0,0 1,0 0,0 0,0 0,00,7 4,0
+143 (/players/#!/pj_tucker) P. Tucker (/players/#!/pj_tucker) TOR (/teams/#!/raptors) 8 1 5,0 1,1 23,3 6,4 32,4 21,1 62,5 1,4 3,6 0,1 0,4 0,92,6 3,9
+144 (/players/#!/brandon_jennings) B. Jennings (/players/#!/brandon_jennings) WAS (/teams/#!/wizards) 8 1 1,3 2,3 14,6 5,3 45,8 14,3 87,5 0,3 1,0 0,3 0,0 0,50,8 3,8
+145 (/players/#!/wayne_selden) W. Selden (/players/#!/wayne_selden) MEM (/teams/#!/grizzlies) 6 2 1,5 1,2 17,7 3,5 34,6 18,2 75,0 0,5 1,0 0,2 0,2 0,31,3 3,8
+146 (/players/#!/bobby_brown) B. Brown (/players/#!/bobby_brown) HOU (/teams/#!/rockets) 3 1 0,7 0,3 4,3 2,7 40,0 50,0 0,0 0,0 0,7 0,0 0,0 0,00,3 3,7
+147 (/players/#!/manu_ginobili) M. Ginobili (/players/#!/manu_ginobili) SAS (/teams/#!/spurs) 8 1 2,5 1,9 15,4 4,9 27,0 15,8 100,0 1,0 1,5 1,0 0,1 0,81,0 3,5
+148 (/players/#!/cristiano_felicio) C. Felicio (/players/#!/cristiano_felicio) CHI (/teams/#!/bulls) 6 1 4,3 0,3 13,7 6,3 60,0 0,0 50,0 1,2 3,2 0,5 0,3 1,22,7 3,2
+149 (/players/#!/jerian_grant) J. Grant (/players/#!/jerian_grant) CHI (/teams/#!/bulls) 5 2 0,8 1,0 10,4 0,6 26,1 11,1 100,0 0,0 0,8 0,4 0,0 1,40,6 3,2
+150 (/players/#!/jaylen_brown) J. Brown (/players/#!/jaylen_brown) BOS (/teams/#!/celtics) 7 1 1,1 0,6 6,9 3,0 55,6 33,3 0,0 0,1 1,0 0,0 0,0 0,60,6 3,
+151 (/players/#!/jake_layman) J. Layman (/players/#!/jake_layman) POR (/teams/#!/blazers) 2 1 0,5 0,5 8,0 3,0 50,0 100,0 50,0 0,0 0,5 0,5 0,0 0,01,0 3,0
+152 (/players/#!/cameron_payne) C. Payne (/players/#!/cameron_payne) CHI (/teams/#!/bulls) 1 1 1,0 0,0 4,0 2,0 50,0 100,0 0,0 0,0 1,0 0,0 0,0 1,00,0 3,0
+153 (/players/#!/paul_pierce) P. Pierce (/players/#!/paul_pierce) LAC (/teams/#!/clippers) 7 1 2,0 1,0 14,4 4,3 44,4 40,0 100,00,3 1,7 0,3 0,0 0,61,6 3,0
+154 (/players/#!/kyle_wiltjer) K. Wiltjer (/players/#!/kyle_wiltjer) HOU (/teams/#!/rockets) 1 1 0,0 0,0 5,0 3,0 100,0100,0 0,0 0,0 0,0 0,0 0,0 0,00,0 3,0
+155 (/players/#!/delon_wright) D. Wright (/players/#!/delon_wright) TOR (/teams/#!/raptors) 8 1 1,6 1,3 9,9 4,5 53,3 40,0 71,4 0,5 1,1 0,3 0,1 0,50,5 2,9
+156 (/players/#!/michael_carter-williams) M. Carter-Williams (/players/#!/michael_carter-williams) CHI (/teams/#!/bulls) 5 1 0,8 1,2 10,6 2,0 40,0 0,0 50,0 0,2 0,6 0,4 0,2 1,21,2 2,8
+157 (/players/#!/james_mcadoo) J. McAdoo (/players/#!/james michael_mcadoo) GSW (/teams/#!/warriors)4 1 1,0 0,0 6,0 2,0 44,4 25,0 50,0 0,5 0,5 0,0 0,0 0,00,5 2,8
+158 (/players/#!/mike_muscala) M. Muscala (/players/#!/mike_muscala) ATL (/teams/#!/hawks) 6 1 2,7 0,3 13,5 4,0 27,8 0,0 87,5 1,0 1,7 0,2 0,5 0,22,0 2,8
+159 (/players/#!/dewayne_dedmon) D. Dedmon (/players/#!/dewayne_dedmon) SAS (/teams/#!/spurs) 7 3 3,4 0,3 7,7 5,4 100,0 0,0 50,0 1,1 2,3 0,1 0,4 0,61,6 2,6
+160 (/players/#!/semaj_christon) S. Christon (/players/#!/semaj_christon) OKC (/teams/#!/thunder) 2 1 1,5 2,5 10,5 5,5 40,0 33,3 0,0 0,0 1,5 0,5 0,0 0,00,5 2,5
+161 (/players/#!/dante_exum) D. Exum (/players/#!/dante_exum) UTA (/teams/#!/jazz) 4 1 0,5 1,3 9,0 4,3 66,7 100,0 0,0 0,3 0,3 0,5 0,0 0,00,3 2,5
+162 (/players/#!/jason_terry) J. Terry (/players/#!/jason_terry) MIL (/teams/#!/bucks) 6 1 1,3 0,8 11,3 3,0 33,3 20,0 100,00,3 1,0 0,5 0,2 0,31,2 2,5
+163 (/players/#!/davis_bertans) D. Bertans (/players/#!/davis_bertans) SAS (/teams/#!/spurs) 7 1 1,3 0,4 8,9 2,1 29,4 33,3 50,0 0,3 1,0 0,0 0,3 0,30,4 2,3
+164 (/players/#!/pat_connaughton) P. Connaughton (/players/#!/pat_connaughton) POR (/teams/#!/blazers) 3 1 2,3 1,3 8,0 3,7 22,2 0,0 100,00,3 2,0 0,0 0,0 0,00,0 2,3
+165 (/players/#!/deyonta_davis) D. Davis (/players/#!/deyonta_davis) MEM (/teams/#!/grizzlies)3 1 1,7 0,0 3,7 3,0 60,0 0,0 50,0 0,7 1,0 0,0 0,0 0,00,7 2,3
+166 (/players/#!/dejounte_murray) D. Murray (/players/#!/dejounte_murray) SAS (/teams/#!/spurs) 4 1 0,8 1,0 5,8 2,0 14,3 0,0 77,8 0,0 0,8 0,3 0,0 0,30,8 2,3
+167 (/players/#!/raul_neto) R. Neto (/players/#!/raul_neto) UTA (/teams/#!/jazz) 6 1 0,7 0,3 6,2 2,7 66,7 66,7 0,0 0,0 0,7 0,0 0,2 0,30,8 2,3
+168 (/players/#!/jonas_jerebko) J. Jerebko (/players/#!/jonas_jerebko) BOS (/teams/#!/celtics) 6 1 1,7 1,3 9,7 3,8 35,7 20,0 100,00,3 1,3 0,5 0,3 0,70,8 2,2
+169 (/players/#!/amir_johnson) A. Johnson (/players/#!/amir_johnson) BOS (/teams/#!/celtics) 5 3 1,2 0,2 9,2 1,8 38,5 0,0 33,3 1,0 0,2 0,2 0,6 0,61,8 2,2
+170 (/players/#!/brandon_bass) B. Bass (/players/#!/brandon_bass) LAC (/teams/#!/clippers) 1 1 1,0 0,0 4,0 2,0 33,3 0,0 0,0 1,0 0,0 1,0 0,0 0,00,0 2,0
+171 (/players/#!/mike_dunleavy) M. Dunleavy (/players/#!/mike_dunleavy) ATL (/teams/#!/hawks) 6 1 0,8 0,3 8,8 1,7 42,9 40,0 100,00,2 0,7 0,2 0,0 1,00,5 2,0
+172 (/players/#!/jusuf_nurkic) J. Nurkic (/players/#!/jusuf_nurkic) POR (/teams/#!/blazers) 1 1 11,0 4,0 17,013,0 33,3 0,0 0,0 0,011,0 0,0 1,0 3,01,0 2,0
+173 (/players/#!/domantas_sabonis) D. Sabonis (/players/#!/domantas_sabonis) OKC (/teams/#!/thunder) 2 1 1,0 0,0 3,0 2,5 0,0 0,0 100,00,0 1,0 0,5 0,5 0,02,0 2,0
+174 (/players/#!/rashad_vaughn) R. Vaughn (/players/#!/rashad_vaughn) MIL (/teams/#!/bucks) 3 1 0,0 0,0 3,3 1,3 50,0 100,0 0,0 0,0 0,0 0,0 0,0 0,00,0 2,0
+175 (/players/#!/brandan_wright) B. Wright (/players/#!/brandan_wright) MEM (/teams/#!/grizzlies)2 1 1,0 0,0 6,0 2,0 40,0 0,0 0,0 0,5 0,5 0,0 1,0 0,50,0 2,0
+176 (/players/#!/richard_jefferson) R. Jefferson (/players/#!/richard_jefferson) CLE (/teams/#!/cavaliers) 4 1 0,5 0,5 9,8 1,5 40,0 50,0 50,0 0,3 0,3 0,3 0,0 0,31,3 1,8
+177 (/players/#!/shelvin_mack) S. Mack (/players/#!/shelvin_mack) UTA (/teams/#!/jazz) 6 1 2,2 1,2 10,5 3,2 25,0 25,0 100,00,0 2,2 0,2 0,0 0,20,5 1,8
+178 (/players/#!/fred_vanvleet) F. VanVleet (/players/#!/fred_vanvleet) TOR (/teams/#!/raptors) 5 1 0,2 0,4 3,2 2,4 80,0 50,0 0,0 0,0 0,2 0,2 0,0 0,00,2 1,8
+179 (/players/#!/montrezl_harrell) M. Harrell (/players/#!/montrezl_harrell) HOU (/teams/#!/rockets) 3 1 1,7 0,3 5,3 2,0 100,0 0,0 50,0 0,3 1,3 0,0 0,0 0,72,3 1,7
+180 (/players/#!/spencer_hawes) S. Hawes (/players/#!/spencer_hawes) MIL (/teams/#!/bucks) 3 1 1,3 0,3 5,7 2,3 40,0 50,0 0,0 0,7 0,7 0,0 0,3 0,31,0 1,7
+181 (/players/#!/jakob_poeltl) J. Poeltl (/players/#!/jakob_poeltl) TOR (/teams/#!/raptors) 6 1 2,0 0,0 4,3 2,7 45,5 0,0 0,0 1,0 1,0 0,2 0,2 0,00,5 1,7
+182 (/players/#!/jeff_withey) J. Withey (/players/#!/jeff_withey) UTA (/teams/#!/jazz) 3 1 1,3 0,3 7,0 3,0 50,0 0,0 50,0 1,0 0,3 0,3 0,3 0,01,7 1,7
+183 (/players/#!/troy_daniels) T. Daniels (/players/#!/troy_daniels) MEM (/teams/#!/grizzlies)6 1 0,8 0,3 11,3 1,7 33,3 33,3 0,0 0,2 0,7 0,3 0,0 0,30,2 1,5
+184 (/players/#!/sam_dekker) S. Dekker (/players/#!/sam_dekker) HOU (/teams/#!/rockets) 2 1 1,5 0,5 5,5 2,0 20,0 50,0 0,0 1,0 0,5 0,5 0,0 0,00,0 1,5
+185 (/players/#!/john_henson) J. Henson (/players/#!/john_henson) MIL (/teams/#!/bucks) 2 1 2,0 0,0 6,0 2,0 25,0 0,0 100,01,0 1,0 0,5 0,0 0,50,5 1,5
+186 (/players/#!/damian_jones) D. Jones (/players/#!/damian_jones) GSW (/teams/#!/warriors)2 1 1,5 0,0 6,0 2,0 33,3 0,0 50,0 1,5 0,0 0,0 0,5 0,01,5 1,5
+187 (/players/#!/tim_quarterman) T. Quarterman (/players/#!/tim_quarterman) POR (/teams/#!/blazers) 2 1 0,0 0,5 3,5 1,5 50,0 50,0 0,0 0,0 0,0 0,0 0,0 0,00,5 1,5
+188 (/players/#!/norris_cole) N. Cole (/players/#!/norris_cole) OKC (/teams/#!/thunder) 4 1 0,3 0,3 6,3 0,0 25,0 25,0 0,0 0,0 0,3 0,0 0,3 0,51,0 1,3
+189 (/players/#!/sheldon_mcclellan) S. McClellan (/players/#!/sheldon_mcclellan) WAS (/teams/#!/wizards) 3 1 0,0 0,0 1,3 1,0 66,7 0,0 0,0 0,0 0,0 0,0 0,0 0,00,3 1,3
+190 (/players/#!/denzel_valentine) D. Valentine (/players/#!/denzel_valentine) CHI (/teams/#!/bulls) 4 1 2,0 0,5 5,5 2,5 33,3 25,0 0,0 0,0 2,0 0,0 0,3 0,50,3 1,3
+191 (/players/#!/tyler_zeller) T. Zeller (/players/#!/tyler_zeller) BOS (/teams/#!/celtics) 3 1 1,7 0,0 5,7 2,0 50,0 0,0 0,0 0,7 1,0 0,0 0,0 0,30,3 1,3
+192 (/players/#!/lucas_nogueira) L. Nogueira (/players/#!/lucas_nogueira) TOR (/teams/#!/raptors) 3 1 1,7 0,0 2,3 2,0 50,0 0,0 50,0 0,7 1,0 0,0 0,0 0,00,3 1,0
+193 (/players/#!/mirza_teletovic) M. Teletovic (/players/#!/mirza_teletovic) MIL (/teams/#!/bucks) 3 1 1,0 0,0 9,0 0,3 16,7 25,0 0,0 0,0 1,0 0,3 0,0 0,31,0 1,0
+194 (/players/#!/james_young) J. Young (/players/#!/james_young) BOS (/teams/#!/celtics) 4 1 0,0 0,3 2,0 0,3 25,0 25,0 0,0 0,0 0,0 0,0 0,0 0,00,5 0,8
+195 (/players/#!/wade_baldwin iv) W. Baldwin IV (/players/#!/wade_baldwin iv) MEM (/teams/#!/grizzlies)3 1 1,3 0,7 4,0 2,3 0,0 0,0 100,00,3 1,0 0,0 0,0 0,01,0 0,7
+196 (/players/#!/dahntay_jones) D. Jones (/players/#!/dahntay_jones) CLE (/teams/#!/cavaliers) 3 1 0,0 0,0 1,7 0,3 100,0 0,0 0,0 0,0 0,0 0,0 0,0 0,31,0 0,7
+197 (/players/#!/meyers_leonard) M. Leonard (/players/#!/meyers_leonard) POR (/teams/#!/blazers) 3 1 2,7 0,3 10,3 1,0 20,0 0,0 0,0 0,7 2,0 0,0 0,0 1,32,0 0,7
+198 (/players/#!/jarell_martin) J. Martin (/players/#!/jarell_martin) MEM (/teams/#!/grizzlies)3 1 1,3 0,0 3,3 1,7 33,3 0,0 0,0 0,7 0,7 0,3 0,0 0,00,7 0,7
+199 (/players/#!/wesley_johnson) W. Johnson (/players/#!/wesley_johnson) LAC (/teams/#!/clippers) 3 1 0,7 0,0 3,7 1,0 0,0 0,0 50,0 0,0 0,7 0,3 0,0 0,00,7 0,3
+200 (/players/#!/thabo_sefolosha) T. Sefolosha (/players/#!/thabo_sefolosha) ATL (/teams/#!/hawks) 4 1 0,0 0,0 2,3 -0,8 0,0 0,0 25,0 0,0 0,0 0,0 0,0 0,00,3 0,3
+201 (/players/#!/troy_williams) T. Williams (/players/#!/troy_williams) HOU (/teams/#!/rockets) 3 1 1,7 0,0 4,3 -0,3 0,0 0,0 50,0 0,3 1,3 0,0 0,0 0,70,0 0,3
+202 (/players/#!/lavoy_allen) L. Allen (/players/#!/lavoy_allen) IND (/teams/#!/pacers) 3 1 0,7 0,0 3,7 0,3 0,0 0,0 0,0 0,0 0,7 0,0 0,0 0,30,0 0,0
+203 (/players/#!/tony_allen) T. Allen (/players/#!/tony_allen) MEM (/teams/#!/grizzlies) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+204 (/players/#!/alan_anderson) A. Anderson (/players/#!/alan_anderson) LAC (/teams/#!/clippers) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+205 (/players/#!/joel_anthony) J. Anthony (/players/#!/joel_anthony) SAS (/teams/#!/spurs) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+206 (/players/#!/matt_barnes) M. Barnes (/players/#!/matt_barnes) GSW (/teams/#!/warriors) 1 1 0,0 1,0 4,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,01,0 0,0
+207 (/players/#!/deandre'_bembry) D. Bembry (/players/#!/deandre'_bembry) ATL (/teams/#!/hawks) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+208 (/players/#!/trey_burke) T. Burke (/players/#!/trey_burke) WAS (/teams/#!/wizards) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+209 (/players/#!/alec_burks) A. Burks (/players/#!/alec_burks) UTA (/teams/#!/jazz) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+210 (/players/#!/bruno_caboclo) B. Caboclo (/players/#!/bruno_caboclo) TOR (/teams/#!/raptors) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+211 (/players/#!/rakeem_christmas) R. Christmas (/players/#!/rakeem_christmas) IND (/teams/#!/pacers) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+212 (/players/#!/nick_collison) N. Collison (/players/#!/nick_collison) OKC (/teams/#!/thunder) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+213 (/players/#!/ed_davis) E. Davis (/players/#!/ed_davis) POR (/teams/#!/blazers) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+214 (/players/#!/festus_ezeli) F. Ezeli (/players/#!/festus_ezeli) POR (/teams/#!/blazers) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+215 (/players/#!/kay_felder) K. Felder (/players/#!/kay_felder) CLE (/teams/#!/cavaliers) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+216 (/players/#!/josh_huestis) J. Huestis (/players/#!/josh_huestis) OKC (/teams/#!/thunder) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+217 (/players/#!/kris_humphries) K. Humphries (/players/#!/kris_humphries) ATL (/teams/#!/hawks) 1 1 0,0 0,0 3,0 1,0 0,0 0,0 0,0 0,0 0,0 0,0 1,0 0,00,0 0,0
+218 (/players/#!/demetrius_jackson) D. Jackson (/players/#!/demetrius_jackson) BOS (/teams/#!/celtics) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+219 (/players/#!/al_jefferson) A. Jefferson (/players/#!/al_jefferson) IND (/teams/#!/pacers) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+220 (/players/#!/brice_johnson) B. Johnson (/players/#!/brice_johnson) LAC (/teams/#!/clippers) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+221 (/players/#!/james_jones) J. Jones (/players/#!/james_jones) CLE (/teams/#!/cavaliers) 2 1 0,0 0,0 1,0 -0,5 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,50,0 0,0
+222 (/players/#!/ryan_kelly) R. Kelly (/players/#!/ryan_kelly) ATL (/teams/#!/hawks) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+223 (/players/#!/kevon_looney) K. Looney (/players/#!/kevon_looney) GSW (/teams/#!/warriors) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+224 (/players/#!/ian_mahinmi) I. Mahinmi (/players/#!/ian_mahinmi) WAS (/teams/#!/wizards) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+225 (/players/#!/chris_mccullough) C. McCullough (/players/#!/chris_mccullough) WAS (/teams/#!/wizards) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+226 (/players/#!/jordan_mickey) J. Mickey (/players/#!/jordan_mickey) BOS (/teams/#!/celtics) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+227 (/players/#!/georges_niang) G. Niang (/players/#!/georges_niang) IND (/teams/#!/pacers) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+228 (/players/#!/daniel_ochefu) D. Ochefu (/players/#!/daniel_ochefu) WAS (/teams/#!/wizards) 4 1 0,3 0,0 1,3 -0,3 0,0 0,0 0,0 0,0 0,3 0,0 0,0 0,30,3 0,0
+229 (/players/#!/chinanu_onuaku) C. Onuaku (/players/#!/chinanu_onuaku) HOU (/teams/#!/rockets) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+230 (/players/#!/jabari_parker) J. Parker (/players/#!/jabari_parker) MIL (/teams/#!/bucks) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+231 (/players/#!/chandler_parsons) C. Parsons (/players/#!/chandler_parsons) MEM (/teams/#!/grizzlies) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+232 (/players/#!/gary_paytoni) G. Payton II (/players/#!/gary_payton ii) MIL (/teams/#!/bucks) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+233 (/players/#!/tomas_satoransky) T. Satoransky (/players/#!/tomas_satoransky) WAS (/teams/#!/wizards) 6 1 0,2 0,3 2,3 0,3 0,0 0,0 0,0 0,0 0,2 0,2 0,0 0,30,3 0,0
+234 (/players/#!/pascal_siakam) P. Siakam (/players/#!/pascal_siakam) TOR (/teams/#!/raptors) 2 1 1,5 0,5 5,0 1,5 0,0 0,0 0,0 1,0 0,5 0,5 0,0 0,00,5 0,0
+235 (/players/#!/kyle_singler) K. Singler (/players/#!/kyle_singler) OKC (/teams/#!/thunder) 1 1 1,0 0,0 10,0 0,0 0,0 0,0 0,0 0,0 1,0 0,0 0,0 0,02,0 0,0
+236 (/players/#!/diamond_stone) D. Stone (/players/#!/diamond_stone) LAC (/teams/#!/clippers) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+237 (/players/#!/edy_tavares) E. Tavares (/players/#!/edy_tavares) CLE (/teams/#!/cavaliers) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
+238 (/players/#!/isaiah_taylor) I. Taylor (/players/#!/isaiah_taylor) HOU (/teams/#!/rockets) 1 1 0,0 1,0 4,0 1,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,01,0 0,0
+239 (/players/#!/derrick_williams) D. Williams (/players/#!/derrick_williams) CLE (/teams/#!/cavaliers) 1 1 0,0 0,0 3,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 1,0 1,00,0 0,0
+240 (/players/#!/joe_young) J. Young (/players/#!/joe_young) IND (/teams/#!/pacers) 1 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,00,0 0,0
