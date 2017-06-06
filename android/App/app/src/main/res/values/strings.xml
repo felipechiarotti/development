@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aplicativo</string>
+    <string name="location_string">Digite a Localização...</string>
+    <string name="button_location_string">Localizar</string>
+    <string name="formated_location_string">Aguardando...</string>
+</resources>
