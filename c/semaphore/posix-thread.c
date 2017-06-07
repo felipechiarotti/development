@@ -7,6 +7,7 @@ int count = 0;
 FILE* file;
 
 int main(){
+  semaphore_init(semaphore_mutex);
   file = fopen("sem-file.txt","r");
   int i;
   for(i = 0; i<5; i++){
@@ -20,7 +21,7 @@ int main(){
 }
 
 void* sum(void* param){
-  lock(semaphore_mutex);
+  lock(semaphore_mutex, pthread_self(void));
   int a = count;
   a = a + fgetc(file);
   count = a;
@@ -28,7 +29,7 @@ void* sum(void* param){
 }
 
 void* subtract(void* param){
-  lock(semaphore_mutex);
+  lock(semaphore_mutex, pthread_self);
   int a = count;
   a = a - fgetc(file);
   count = a;

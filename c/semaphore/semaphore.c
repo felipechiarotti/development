@@ -6,22 +6,28 @@ struct Semaphore{
     int fila_size = -1;
 };
 
-void lock(struct Semaphore s){
-    fila_size++;
-    pthread_t locked = s.fila[fila_size];
+void semaphore_init(struct Semaphore s){
+    s.estado = 0;
+    s.fila_size = -1;
+}
+
+void lock(struct Semaphore s, pthread_t thread){
+    s.fila_size++;
+    s.fila[s.fila_size] = thread;
+    pthread_t locked = thread;
     while(locked != s.fila[0]);
-    estado = 1;
+    s.estado = 1;
 }
 
 void free_signal(struct Semaphore s){
     int i;
-    if(fila_size > 0){
-        for(i = 0; i < fila_size; i++){
-            fila[i] = fila[i+1];
+    if(s.fila_size > 0){
+        for(i = 0; i < s.fila_size; i++){
+            s.fila[i] = s.fila[i+1];
         }
     }else{
-        fila[0] = NULL;
+        s.fila[0] = NULL;
     }
-    fila_size--;
-    estado = 0;
+    s.fila_size--;
+    s.estado = 0;
 }
