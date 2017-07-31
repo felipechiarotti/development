@@ -6,15 +6,11 @@ from lexer.symbol import Symbol
 
 class Lexer:
     def __init__(self):
-        self.buffer_size = 256
-        self.analise_file = open(sys.argv[1],'r')
-        self.line_number = 1
         self.char_peek = ' '
-        self.char_pos = 0
-        self.line_data = self.analise_file.readline()
         self.symbol_table = SymbolTable()
-        self.first_buffer = []
-        self.second_buffer = []
+        self.buffer = [Buffer(), Buffer()]
+        variavel = INSQ
+          [E][R][T]
     def next_token(self):
         token = Token()
         if(len(self.line_data) > 0):
@@ -66,17 +62,3 @@ class Lexer:
                 token.value = 0
         return token
 
-    def fill_buffer(self, buffer):
-        buffer = []
-        buffer_control = 0
-        while buffer_control < buffer_size and  
-        
-    def next_char(self):
-        if self.char_pos == len(self.line_data):
-            self.line_data = self.analise_file.readline()
-            self.char_pos = 0
-            self.line_number = self.line_number + 1
-            return '\n'
-        else:
-            self.char_pos = self.char_pos + 1
-            return str(self.line_data[self.char_pos-1])

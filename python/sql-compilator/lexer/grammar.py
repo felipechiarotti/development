@@ -1,8 +1,9 @@
 from enum import Enum
 
 class Grammar(Enum):
-    ERR    = -2,
+    ERR    = -2, #Erro
 
+    #PALAVRAS CHAVE
     INSERT = 300
     UPDATE = 301
     DELETE = 302
@@ -11,12 +12,14 @@ class Grammar(Enum):
     WHERE  = 305
     FROM   = 306
 
-    EOL    = 500
-    OPEN   = 501
-    CLOSE  = 502
-    COMMA  = 503
-    EQUALS = 504
+    #OUTROS
+    EOL    = 500 #Fim de Linha
+    OPEN   = 501 #Parenteses Aberto
+    CLOSE  = 502 #Parenteses Fechado
+    COMMA  = 503 #Virgula
+    EQUALS = 504 #Sinal de Igualdade
 
+    #TIPOS
     ID     = 600
     STRING = 601
     NUMBER = 602
