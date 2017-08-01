@@ -1,4 +1,5 @@
 import sys
+import threading
 from lexer.symbol_table import SymbolTable
 from lexer.token import Token
 from lexer.grammar import Grammar
@@ -9,8 +10,10 @@ class Lexer:
         self.char_peek = ' '
         self.symbol_table = SymbolTable()
         self.buffer = [Buffer(), Buffer()]
-        variavel = INSQ
-          [E][R][T]
+        for buffer in self.buffer:
+            thread = threading.Thread(target=verify_buffer))
+            thread.start()
+
     def next_token(self):
         token = Token()
         if(len(self.line_data) > 0):
