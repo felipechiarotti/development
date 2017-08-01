@@ -4,7 +4,7 @@ from lexer.symbol_table import SymbolTable
 from lexer.token import Token
 from lexer.grammar import Grammar
 from lexer.symbol import Symbol
-
+from lexer.buffer import Buffer
 class Lexer:
     def __init__(self):
         self.char_peek = ' '
