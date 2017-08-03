@@ -1,14 +1,9 @@
 class ManageFile:
-    def __init__(self):
-        self.analise_file = ''
+    def __init__(self,filename):
+        self.analise_file = filename
         self.line_number = 1
         self.char_pos = 0
-    
-    #Abre o Arquivo
-    @staticmethod
-    def set_file_name(self,file_name):
-        self.analise_file = open(file_name,'r')
-    
+
     #Pega o proximo caractere do arquivo
     @staticmethod
     def get_next_file_char(self):
@@ -18,6 +13,8 @@ class ManageFile:
             self.line_number = self.line_number + 1
         else:
             self.char_pos = self.char_pos + 1
+        if(char_read == ''):
+            return Grammar.ERR
         return char_read
 
     #Retorna a posição do caractere na linha

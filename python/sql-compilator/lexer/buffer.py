@@ -1,4 +1,3 @@
-from lexer.manage_file import ManageFile
 
 class Buffer:
     def __init__(self):
@@ -16,10 +15,10 @@ class Buffer:
     #Preenche o Buffer
     def fill_buffer(self):
         next_char = ManageFile.get_next_file_char()
-        while buffer_control < buffer_size and next_char != "":
+        while buffer_control < buffer_size:
             buffer.append(next_char)
             next_char = self.get_next_file_char()
-    
+
     #Retorna o proximo char do buffer
     def get_char(self):
         self.read_buffer_pos = self.read_buffer_pos + 1
@@ -31,7 +30,7 @@ class Buffer:
 
     #Verifica se o buffer foi inteiro lido e reenche o mesmo
     def verify_buffer(self):
-    while(true):
-        if(self.read_buffer_pos == self.buffer_size):
-            self.empty_buffer()
-            self.fill_buffer()
+        while(True):
+            if(self.read_buffer_pos == self.buffer_size):
+                self.empty_buffer()
+                self.fill_buffer()
