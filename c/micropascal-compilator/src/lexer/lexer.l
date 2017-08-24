@@ -1,5 +1,5 @@
 %{
-#include "tokens.h"
+#include "libs/tokens.h"
 int nline = 1;
 %}
 %%
@@ -7,7 +7,7 @@ int nline = 1;
 [tT][hH][eE][nN]					return THEN;
 ";"									return EOL;
 [wW][hH][iI][lL][eE]				return WHILE;
-[bB][eE][gG]        				return BEG;
+[bB][eE][gG][iI][nN]        		return BEGN;
 [eE][nN][dD]						return END;
 [wW][rR][iI][tT][eE]				return WRITE;
 [a-zA-Z][a-zA-Z0-9]*				return VAR;

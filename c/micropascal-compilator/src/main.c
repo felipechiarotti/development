@@ -1,9 +1,7 @@
 #include <stdio.h>
-#include "lexer/tokens.h"
-extern int yylex();
-extern void yyset_in(FILE*);
-extern int nline;
+#include "parser/parser.c"
 
+extern void yyset_in(FILE*);
 int main(int argc, char **argv){
 	if(argc == 2){
 		FILE *file;
@@ -11,10 +9,12 @@ int main(int argc, char **argv){
 			perror("Erro: ");
             return (-1);
 		}else{
-			yyset_in(file);
-			int val;
-			while(val = yylex()){
-				
+			struct Parser parser;
+			int result = run_parser(parser, PROGR);
+			if(result){
+				printf("%s compilado com sucesso!",argv[1]);
+			}else{
+				printf("Não foi possível compilar o arquivo %s",argv[1]);
 			}
 		}
 		fclose(file);
