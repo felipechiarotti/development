@@ -48,12 +48,21 @@ public class InferenceEngine {
     public void process(Variable var){
         for(Rule rule : this.base.getRules()){
             for(Consequence cons : rule.getConsequences()){
-                if(var == cons.getVariable()){
+                if(var.getName().equals(cons.getVariable().getName())){
                     for(Antecedent ant : rule.getAntecedents()){
                         this.process(ant.getVariable());
                     }
+                }else{
+                    
+                    
                 }
             }
+
+            
         }
     }
 }
+
+    private Variable makeQuestion(){
+        System.out.println();
+    }

@@ -1,0 +1,5 @@
+begin
+   read batata;
+     if 3 + 2 then
+	write batata;
+end;
