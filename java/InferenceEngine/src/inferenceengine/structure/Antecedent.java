@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package structure;
+package inferenceengine.structure;
 
 /**
  *
@@ -43,5 +43,8 @@ public class Antecedent<T> {
     public void setOperation(char operation) {
         this.operation = operation;
     }
-    
+    @Override
+    public String toString(){
+        return variable.getName()+"  "+operation+"  "+value.toString();
+    }    
 }

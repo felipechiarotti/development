@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package structure;
+package inferenceengine.structure;
 
 import java.util.ArrayList;
 
@@ -15,17 +15,20 @@ public class Rule {
     String name;
     ArrayList<Consequence> consequences;
     ArrayList<Antecedent> antecedents;
+    private boolean check;
     
     public Rule(String name){
         this.name = name;
         this.consequences = new ArrayList<Consequence>();
         this.antecedents = new ArrayList<Antecedent>();
+        this.check = true;
     }
     
     public Rule(String name, ArrayList<Consequence> consequences, ArrayList<Antecedent> antecedents){
         this.name = name;
         this.consequences = consequences;
         this.antecedents = antecedents;
+        this.check = true;
     }
     
     public String getName() {
@@ -35,7 +38,12 @@ public class Rule {
     public void setName(String name) {
         this.name = name;
     }
-
+    public void setCheck(boolean check){
+        this.check = check;
+    }
+    public boolean getCheck(){
+        return this.check;
+    }
     public ArrayList<Consequence> getConsequences() {
         return consequences;
     }

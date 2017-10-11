@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package structure;
+package inferenceengine.structure;
 
 import java.util.ArrayList;
 
@@ -18,7 +18,12 @@ public class Base {
     public ArrayList<Rule> getRules() {
         return rules;
     }
-
+    public void addRule(Rule rule){
+        this.rules.add(rule);
+    }
+    public void addVar(Variable var){
+        this.variables.add(var);
+    }
     public void setRules(ArrayList<Rule> rules) {
         this.rules = rules;
     }
