@@ -35,7 +35,7 @@ void Inserir(PESSOA** Fila, int idade, char *nome){
         Inserir( & ((**Fila).Prox) , idade, nome);
     }
 }
-
+ 
 void Remover(PESSOA** Fila){
     if(*Fila == NULL){
         return;
